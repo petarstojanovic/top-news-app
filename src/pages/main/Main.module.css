@@ -1,0 +1,24 @@
+.layout {
+  height: 100vh;
+}
+
+.header {
+  background-color: #fff !important;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.content {
+  height: 100%;
+  overflow: auto;
+}
+
+.menu {
+  flex-grow: 1;
+}
+
+.avatar {
+  background-color: blueviolet !important;
+  cursor: pointer;
+}

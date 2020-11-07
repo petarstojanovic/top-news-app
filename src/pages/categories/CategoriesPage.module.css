@@ -1,0 +1,13 @@
+.card {
+}
+
+.categoryHeader {
+  text-decoration: underline;
+  color: blue;
+  font-weight: bold;
+}
+
+.pageWrapper {
+  max-width: 920px;
+  margin: auto;
+}
